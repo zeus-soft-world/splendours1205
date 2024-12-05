@@ -1,0 +1,26 @@
+.embla {
+  overflow: hidden;
+  width: 100%;
+}
+
+.embla__viewport {
+  overflow: hidden;
+}
+
+.embla__container {
+  display: flex;
+  gap: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.embla__slide {
+  flex: 0 0 45%; /* Two items on the screen */
+  position: relative;
+}
+
+.embla__slide__img {
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  object-fit: cover;
+}

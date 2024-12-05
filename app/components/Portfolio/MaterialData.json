@@ -1,0 +1,36 @@
+{
+    "resources": [
+      {
+        "product_name": "OUTDOOR",
+        "imageUrl": "images/Portfolio/materials/material1.jpg"
+      },
+      {
+        "product_name": "FIREPLACE",
+        "imageUrl": "images/Portfolio/materials/material2.jpg"
+      },
+      {
+        "product_name": "DINNING ROOM",
+        "imageUrl": "images/Portfolio/materials/material3.jpg"
+      },
+      {
+        "product_name": "POOLSIDE",
+        "imageUrl": "images/Portfolio/materials/material4.jpg"
+      },
+      {
+        "product_name": "OUTDOOR",
+        "imageUrl": "images/Portfolio/materials/material1.jpg"
+      },
+      {
+        "product_name": "FIREPLACE",
+        "imageUrl": "images/Portfolio/materials/material2.jpg"
+      },
+      {
+        "product_name": "DINNING ROOM",
+        "imageUrl": "images/Portfolio/materials/material3.jpg"
+      },
+      {
+        "product_name": "POOLSIDE",
+        "imageUrl": "images/Portfolio/materials/material4.jpg"
+      }
+    ]
+  }
