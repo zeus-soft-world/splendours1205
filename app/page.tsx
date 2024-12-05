@@ -250,7 +250,7 @@ const HomePage = () => {
                 </Box>
                     : <Box
                         id="walling"
-                        className="relative flex flex-col w-full px-20 py-20 gap-y-24 rounded-[40px] h-[170vh]"
+                        className="relative flex flex-col w-full px-20 py-20 gap-y-24 rounded-[40px]"
                         sx={{
                             backgroundImage: 'url(images/Home/WallingRange/background.jpg)', // Add your image path here
                             backgroundSize: 'cover', // Ensures the background image covers the entire area
@@ -527,7 +527,7 @@ const HomePage = () => {
                     </Box>
                 </Box> : <Box
                     id="paving"
-                    className="relative flex flex-col w-full px-20 py-20 gap-y-24 rounded-[40px] h-[170vh]"
+                    className="relative flex flex-col w-full px-20 py-20 gap-y-24 rounded-[40px]"
                     sx={{
                         backgroundImage: 'url(images/Home/PavingRange/background.jpg)', // Add your image path here
                         backgroundSize: 'cover', // Ensures the background image covers the entire area
